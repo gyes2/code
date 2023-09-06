@@ -1,4 +1,4 @@
-[def]: image.png
+![img](image-1.png)
 부모 노드(parent node) : 자기 자신(노드)과 연결 된 노드 중 자신보다 높은 노드를 의미 (ex. F의 부모노드 : B)
 
 자식 노드(child node) : 자기 자신(노드)과 연결 된 노드 중 자신보다 낮은 노드를 의미 (ex. C의 자식노드 : G, H)
