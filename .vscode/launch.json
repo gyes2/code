@@ -1,0 +1,153 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "b_2839",
+            "request": "launch",
+            "mainClass": "b_2839",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "vv",
+            "request": "launch",
+            "mainClass": "graph.vv",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "kote_3",
+            "request": "launch",
+            "mainClass": "graph.kote_3",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_1158",
+            "request": "launch",
+            "mainClass": "graph.b_1158",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "kote",
+            "request": "launch",
+            "mainClass": "graph.kote",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_1388",
+            "request": "launch",
+            "mainClass": "graph.b_1388",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_2178",
+            "request": "launch",
+            "mainClass": "graph.b_2178",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_2606",
+            "request": "launch",
+            "mainClass": "graph.b_2606",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_1260",
+            "request": "launch",
+            "mainClass": "graph.b_1260",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_1003",
+            "request": "launch",
+            "mainClass": "sorting.b_1003",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_11650_comparable",
+            "request": "launch",
+            "mainClass": "sorting.b_11650_comparable",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_11650",
+            "request": "launch",
+            "mainClass": "sorting.b_11650",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_1181",
+            "request": "launch",
+            "mainClass": "sorting.b_1181",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_2751",
+            "request": "launch",
+            "mainClass": "sorting.b_2751",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "type": "java",
+            "name": "b_2750",
+            "request": "launch",
+            "mainClass": "b_2750",
+            "projectName": "code_b4b163b9"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "sorting.Sorting",
+            "projectName": "code_b4b163b9"
+        }
+    ]
+}

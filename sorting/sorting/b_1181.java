@@ -21,8 +21,6 @@ public class b_1181 {
             else{
                 System.out.println(result[i]);
             }
-            
-        
         }
     }
 

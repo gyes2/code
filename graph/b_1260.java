@@ -38,7 +38,6 @@ class b_1260{
                 map2[i][j] = 0;
                 node[i] = 1;
                 nodeB[i] = 1;
-
             }
         }
         sc.nextLine();
@@ -77,15 +76,13 @@ class b_1260{
             int s = queue.poll();
             answerB[indexB] = s;
             int[] tmp = map[s];
-            //System.out.println("방문 노드: "+s);
-            //System.out.println("tmp: "+Arrays.toString(tmp));
+            
             for(int i=0;i<tmp.length;i++){
                 if(tmp[i] == 1&&nodeB[i]==1){
                     map[start][i] = 0;
                     map[i][start] = 0;
                     nodeB[i]=0;
                     queue.add(i);
-                        
                 }
             }
             //System.out.println(queue);

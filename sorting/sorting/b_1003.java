@@ -18,9 +18,7 @@ public class b_1003{
             int m = sc.nextInt();
             pivo(m);
         }
-        
     }
-
     public static void pivo(int n){
 
         if(n == 0){
@@ -34,7 +32,6 @@ public class b_1003{
                 dp[i][0] = dp[i-1][0]+dp[i-2][0];
                 dp[i][1] = dp[i-1][1]+dp[i-2][1];
             }
-            
             System.out.println(dp[n][0]+" "+dp[n][1]);
         }
     }
